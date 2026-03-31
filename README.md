@@ -153,11 +153,11 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 👤 Autor
 
-**Seu Nome**
+**Pedro Belmino Viana Lins**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- GitHub: [@Pedro-Belmino](https://github.com/Pedro-Belmino)
+- LinkedIn: [Pedro Belmino Viana Lins](https://www.linkedin.com/in/pedro-belmino-viana-lins-958a06366/)
+- Email: pedrobelminovianalins@gmail.com
 
 ## 📞 Suporte
 
